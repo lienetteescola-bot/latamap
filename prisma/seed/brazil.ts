@@ -360,9 +360,9 @@ export const brazil: LeaderNoId[] = [
 	},
 	{
 		countryId,
-		name: `suiz Inácio Lula da Silva`,
+		name: `Jair Bolsonaro `,
 		party: `Workers' Party`,
-		leaning: leanings.LEFT,
+		leaning: leanings.RIGHT,
 		tookOffice: `1 January 2023`,
 		leftOffice: null,
 	},
